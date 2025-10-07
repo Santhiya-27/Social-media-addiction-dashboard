@@ -53,13 +53,6 @@ The **Social Media Addiction Dashboard** is a data visualization project built i
 
 ---
 
-## 📊 Preview
-> *(Add a screenshot of your dashboard here)*  
-> Example:  
-> ![Dashboard Preview](images/dashboard-preview.png)
-
----
-
 ## 🔮 Future Enhancements
 - Integration with real-time data sources (e.g., API-based tracking).  
 - Advanced predictive modeling on usage patterns.  
@@ -70,7 +63,7 @@ The **Social Media Addiction Dashboard** is a data visualization project built i
 ## 🧑‍💻 Author
 **Santhiya S**  
 Data Enthusiast | Power BI Developer | Aspiring Data Analyst  
-📧 *[Add your email or LinkedIn]*  
+📧 *[santhiyashanmugam052@gmail.com]*  
 
 ---
 
